@@ -1,4 +1,4 @@
-# calculadora
+# Calculadora
 
 ![preview](./.github/preview.png)
 
